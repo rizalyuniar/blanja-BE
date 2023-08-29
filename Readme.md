@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Backend Blanja</h3>
   <p align="center">
-    <a href="https://github.com/rrizalyuniar/blanja-BE"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rizalyuniar/blanja-BE"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://blanja-production.up.railway.app/">View Demo</a>
     ·
@@ -64,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
 - Clone This Back End Repo
 
 ```
-git clone https://github.com/rrizalyuniar/blanja-BE.git
+git clone https://github.com/rizalyuniar/blanja-BE.git
 ```
 
 - Go To Folder Repo
@@ -122,9 +122,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Related Project
 
-:rocket: [`Backend Blanja`](https://github.com/rrizalyuniar/blanja-BE)
+:rocket: [`Backend Blanja`](https://github.com/rizalyuniar/blanja-BE)
 
-:rocket: [`Frontend Blanja`](https://github.com/rrizalyuniar/blanja-FE)
+:rocket: [`Frontend Blanja`](https://github.com/rizalyuniar/blanja-FE)
 
 :rocket: [`Demo Blanja`](https://blanjaa-fe.vercel.app/)
 
@@ -134,4 +134,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : rizalyuniar123@gmail.com
 
-Project Link: [https://github.com/rrizalyuniar/blanja-BE/](https://github.com/rrizalyuniar/blanja-BE)
+Project Link: [https://github.com/rizalyuniar/blanja-BE/](https://github.com/rizalyuniar/blanja-BE)
